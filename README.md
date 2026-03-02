@@ -1,6 +1,8 @@
 ## Hello,world! 👋
 
-刷题仓库 <https://github.com/chen14514/chen-code>
+主仓库 <https://github.com/chen14514/chen14514>  
+刷题仓库 <https://github.com/chen14514/chen-code>  
+↑最近刚搞仓库，等整理完会公开
 
 <!--
 **chen14514/chen14514** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
