@@ -1,7 +1,7 @@
 ## Hello,world! 👋
 
 主仓库 <https://github.com/chen14514/chen14514>  
-刷题仓库 <https://github.com/chen14514/chen-code>
+刷题仓库 <https://github.com/chen14514/chen-code>  
 小游戏 <https://github.com/chen14514/chen-game>
 
 <!--
