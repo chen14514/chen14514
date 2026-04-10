@@ -5,8 +5,8 @@
 ---
 
 刷题仓库 <https://github.com/chen14514/chen-code>  
-小游戏 <https://github.com/chen14514/chen-game>
-工具 <https://github.com/chen14514/chen-tools>
+小游戏 <https://github.com/chen14514/chen-game>  
+工具 <https://github.com/chen14514/chen-tools>  
 
 <!--
 **chen14514/chen14514** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
