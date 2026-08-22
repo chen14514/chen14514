@@ -4,7 +4,6 @@
 
 ---
 
-刷题仓库 <https://github.com/chen14514/chen-code>  
 小游戏 <https://github.com/chen14514/chen-games>  
 工具 <https://github.com/chen14514/chen-tools>  
 
