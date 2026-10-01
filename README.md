@@ -5,7 +5,6 @@
 ---
 
 小游戏 <https://github.com/chen14514/chen-games>  
-工具 <https://github.com/chen14514/chen-tools>  
 
 <!--
 **chen14514/chen14514** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
